@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="limeade">#80BC00</color>
+    <color name="white">#FFFFFF</color>
+    <color name="resolution_blue">#002D82</color>
+    <color name="background">#FFFFFF</color>
+    <color name="primary">#80BC00</color>
+    <color name="primary_variant">#002D82</color>
+    <color name="on_primary">#FFFFFF</color>
+    <color name="secondary">#002D82</color>
+    <color name="secondary_variant">#80BC00</color>
+    <color name="on_secondary">#FFFFFF</color>
+    <color name="text_primary">#002D82</color>
+    <color name="text_secondary">#80BC00</color>
+    <color name="light_green">#E8F5E8</color>
+</resources>
